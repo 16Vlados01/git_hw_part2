@@ -1,1 +1,1 @@
-Project for Git homework
+Project for Git homework (master version)
